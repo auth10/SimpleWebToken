@@ -3,6 +3,10 @@ SimpleWebToken
 
 The minimum library to handle SimpleWebTokens
 
+Credits to @kzu and @zahmed
+<http://zamd.net/2011/02/08/using-simple-web-token-swt-with-wif/> 
+<http://netfx.codeplex.com/>
+
 ## Usage
 
 ```
